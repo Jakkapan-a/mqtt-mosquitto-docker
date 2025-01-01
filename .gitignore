@@ -1,0 +1,8 @@
+*.ex4
+*.vs
+*.db
+*.set
+
+log
+data
+config/passwordfile
